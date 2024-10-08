@@ -6,3 +6,5 @@ When all the informations are entered in the Template.MOBILECONFIG file such as 
 When all this is finished, the profile is installed.
 
 All of this process is entirely automatic, the only part which is manual is to install the profile because Apple retired the feature to do it automatically.
+
+You can modify this script as you wish, for example to not call the Jenkins job or anything else.
